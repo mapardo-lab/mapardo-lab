@@ -1,4 +1,15 @@
-## Hi there 👋
+## Miguel Angel Pardo
+Data Scientist
+
+## Contact
+Email: mapardo@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mapardocea/
+
+## Skills
+Programming languages: Python, R, SQL
+
+Others: Git, Github, Docker
 
 <!--
 **mapardo-lab/mapardo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
